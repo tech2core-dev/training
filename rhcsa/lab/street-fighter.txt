@@ -1,10 +1,10 @@
 Ryu
-Ken Masters
 Chun-Li
 Guile
 Cammy
 Zangief
 Dhalsim
+Ken
 Blanka
 Honda
 Akuma Gouki
