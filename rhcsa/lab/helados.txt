@@ -1,24 +1,13 @@
 ¡Hola! Me llamo _______.
-
 Me gustan los siguientes sabores de helado: # Elimina todos los de esta lista excepto tus TRES favoritos
-
 Vainilla
-
 Mocca
-
 Chocolate
-
 Coco
-
 Banana
-
 Pistacho
-
 Galleta
-
 Fresa
-
 Caramelo 
-
 Chicle
 
