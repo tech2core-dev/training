@@ -1,6 +1,7 @@
 Goku
 Vegito 
 Majin Buu
+Future Trunks
 Goten
 Uub
 Gohan
@@ -20,5 +21,4 @@ Kibito Kai
 Super Buu
 Piccolo
 Trunks
-Future Trunks
 Chi-Chi
