@@ -1,5 +1,5 @@
 Ryu
-Ken
+Ken Masters
 Chun-Li
 Guile
 Cammy
@@ -7,5 +7,5 @@ Zangief
 Dhalsim
 Blanka
 Honda
-Akuma
+Akuma Gouki
 Sagat
