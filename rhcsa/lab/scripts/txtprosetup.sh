@@ -30,3 +30,4 @@ cat <<EOL > log_files/app3.log
 EOL
 
 echo "Setup completado. Directorio 'log_files' y Ejemplos de log files (app1.log, app2.log, app3.log) han sido creados."
+
