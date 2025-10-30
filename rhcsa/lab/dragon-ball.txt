@@ -8,6 +8,7 @@ Freezer
 Bulma
 Gotenks
 Shenlong
+Chiaotzu
 Kid Buu
 Vegeta
 Shin Supreme Kai
@@ -21,4 +22,3 @@ Piccolo
 Trunks
 Future Trunks
 Chi-Chi
-Chiaotzu
